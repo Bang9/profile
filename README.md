@@ -8,7 +8,8 @@
   
 - 연락처
   - 010 9688 1157 (gusrn1423@naver.com)
-  - blog.naver.com/gusrn1423
+  - https://blog.naver.com/gusrn1423
+  - https://www.github.com/bang9
   
 - 기술
   - 언어
@@ -21,6 +22,8 @@
     - React / React-Native / MobX / Electron / Node.js / Express / OpenCV / WebRTC / Wordpress / Bootstrap / Git ...
     
 - Contribution
+  - [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
+  - [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
   - [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pull/16)
   - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
   - [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)

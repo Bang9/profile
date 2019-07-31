@@ -8,8 +8,8 @@
   
 - 연락처
   - 010 9688 1157 (gusrn1423@naver.com)
-  - https://blog.naver.com/gusrn1423
-  - https://www.github.com/bang9
+  - <https://blog.naver.com/gusrn1423>
+  - <https://www.github.com/bang9>
   
 - 기술
   - 언어
@@ -65,7 +65,7 @@
 - 주요 작업기능 : UI / 인증문자 수신시 Android Native단에서 Top View 로 팝업 / 웹앱에 인증문자 Push notification 전송
 
 #### PIE(2017.04~2017.10) : 감정기록 어플리케이션
-- https://play.google.com/store/apps/details?id=com.bang9dev.pie
+- <https://play.google.com/store/apps/details?id=com.bang9dev.pie>
 - 기술 및 언어 : Javascript, React Native(Android only), Firebase
 - 업무 : React Native 앱 개발
 - 주요 작업기능 : UI / 감정 기록 / 감정 통계
@@ -77,13 +77,13 @@
 ### 디엔터스
 ----
 #### 사운드짐(2018.09~2018.12) : 오디오 헬스 코칭 어플리케이션
-- https://soundgym.kr
+- <https://soundgym.kr>
 - 기술 및 언어 : Javascript, React, React Native(Android / iOS), Firebase
 - 업무 : React 어드민 웹 개발, React Native 앱 개발, Firebase database/storage/cloud function/hosting 이용하여 백엔드 구성
 - 주요 작업기능 : UI / 컨텐츠 재생 / 컨텐츠 업로드
 
 #### Foldio360 (2019.01~2019.04) : 턴테이블을 이용한 360도 이미지 촬영 및 편집 어플리케이션
-- https://apps.apple.com/kr/app/foldio360/id1144327537
+- <https://apps.apple.com/kr/app/foldio360/id1144327537>
 - 기술 및 언어 : Swift, C, OpenCV
 - 업무 : 기 개발된 iOS앱에 추가적인 기능 개발 및 추가
 - 주요 작업기능 :
@@ -94,7 +94,7 @@
 * 인앱결제 추가
 
 #### Blockey Wallet(2019.03~2019.04) : (프로토타입) Secure SD 카드를 사용한 개인용 하드 월렛 어플리케이션
-- https://www.youtube.com/watch?v=g9EYt_ryxtg
+- <https://www.youtube.com/watch?v=g9EYt_ryxtg>
 - 기술 및 언어 : Java, Javascript, React Native(Android only)
 - 업무 : React Native 앱 개발, 기개발된 Bitcoin/Ethereum/Waves/Secure SD Card 라이브러리 및 API를 사용하여 Android용 RN Bridge Package 개발
 - 주요 작업기능 : UI / 지갑 생성 및 관리 / Waves DEX API를 사용한 P2P거래 / QR코드 활용한 송금
@@ -106,7 +106,7 @@
 ### 외주작업
 ----
 #### 아맘 : 남양주/구리 아파트 어머니들을 위한 아이 돌봄 나눔 어플리케이션
-- https://play.google.com/store/apps/details?id=com.amom.app
+- <https://play.google.com/store/apps/details?id=com.amom.app>
 - 기술 및 언어 : Javascript, React Native(Android only), Firebase
 - 업무 : React Native 앱 개발,  Firebase database/cloud function/hosting 이용하여 백엔드 구성
 - 주요 작업기능 : UI / 아이돌봄 구인 및 구직 기능 / 채팅 / SNS

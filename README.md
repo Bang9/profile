@@ -22,11 +22,11 @@
     - React / React-Native / MobX / Electron / Node.js / Express / OpenCV / WebRTC / Wordpress / Bootstrap / Git ...
     
 - Contribution
-  - [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
-  - [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
-  - [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pull/16)
-  - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
-  - [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)
+  - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
+  - [Tip] [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
+  - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pull/16)
+  - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
+  - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)
 
 
 <br/><br/><br/>

@@ -65,7 +65,7 @@
 - 업무 : React 어드민 웹 개발, React Native 앱 개발, Firebase database/storage/cloud function/hosting 이용하여 백엔드 구성
 - 주요 작업기능 : UI / 컨텐츠 재생 / 컨텐츠 업로드
 
-#### Foldio360 (2019.01~2018.04) : 턴테이블을 이용한 360도 이미지 촬영 및 편집 어플리케이션
+#### Foldio360 (2019.01~2019.04) : 턴테이블을 이용한 360도 이미지 촬영 및 편집 어플리케이션
 - https://apps.apple.com/kr/app/foldio360/id1144327537
 - 기술 및 언어 : Swift, C, OpenCV
 - 업무 : 기 개발된 iOS앱에 추가적인 기능 개발 및 추가

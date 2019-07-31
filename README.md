@@ -24,8 +24,11 @@
   - [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pull/16)
   - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
   - [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)
-  
-    
+
+
+<br/><br/><br/>
+
+
 ## 활동 및 수상
 - 대학생 창업팀 FLEEO(2016.07~2017.10)의 개발자로 활동
   - 강원대학교 창업선도대학 사업 선정
@@ -34,11 +37,19 @@
   - 2016 슈퍼챌린지 강원(한국청년기업가정신재단) 아이디어톤 우수상 수상(2016.10)
   - 분할결제 어플리케이션 페퍼페이 프로토타입 개발 보조(외주개발)
   - 감정기록 어플리케이션 PIE 개발
+  
+  
+<br/><br/><br/>
+
 
 ## 경력
 - 디엔터스
   - 2018.10 ~ 2019.07 (9개월)
   - SI 위주로 프로젝트 약 7개 진행
+  
+  
+<br/><br/><br/>
+
 
 ## 프로젝트
 
@@ -57,9 +68,12 @@
 - 주요 작업기능 : UI / 감정 기록 / 감정 통계
 
 
+<br/><br/>
+
+
 ### 디엔터스
 ----
-#### 사운드짐(2018.09~2019.10) : 오디오 헬스 코칭 어플리케이션
+#### 사운드짐(2018.09~2018.12) : 오디오 헬스 코칭 어플리케이션
 - https://soundgym.kr
 - 기술 및 언어 : Javascript, React, React Native(Android / iOS), Firebase
 - 업무 : React 어드민 웹 개발, React Native 앱 개발, Firebase database/storage/cloud function/hosting 이용하여 백엔드 구성
@@ -81,6 +95,10 @@
 - 기술 및 언어 : Java, Javascript, React Native(Android only)
 - 업무 : React Native 앱 개발, 기개발된 Bitcoin/Ethereum/Waves/Secure SD Card 라이브러리 및 API를 사용하여 Android용 RN Bridge Package 개발
 - 주요 작업기능 : UI / 지갑 생성 및 관리 / Waves DEX API를 사용한 P2P거래 / QR코드 활용한 송금
+
+
+<br/><br/>
+
 
 ### 외주작업
 ----

@@ -24,7 +24,7 @@
 - Contribution
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
   - [Tip] [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
-  - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pull/16)
+  - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pulls/Bang9)
   - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
   - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)
 
@@ -96,11 +96,10 @@
 * 360도 촬영 이미지의 좌우보정 알고리즘을 바탕으로 개발된 베이스 코드에, 알고리즘 예외사항 추가 작업 및 사용자가 조작 하여 좌우 보정이 가능하도록 OpenCV를 사용하여 360도 이미지의 물체 형상을 이미지로 만들어내는 코드 추가
 * 인앱결제 추가
 
-#### Blockey Wallet(2019.03~2019.04) : (프로토타입) Secure SD 카드를 사용한 개인용 하드 월렛 어플리케이션
-- <https://www.youtube.com/watch?v=g9EYt_ryxtg>
+#### Wallet(2019.03~2019.04) : (프로토타입) Secure SD 카드를 사용한 하드월렛
 - 기술 및 언어 : Java, Javascript, React Native(Android only)
-- 업무 : React Native 앱 개발, 기개발된 Bitcoin/Ethereum/Waves/Secure SD Card 라이브러리 및 API를 사용하여 Android용 RN Bridge Package 개발
-- 주요 작업기능 : UI / 지갑 생성 및 관리 / Waves DEX API를 사용한 P2P거래 / QR코드 활용한 송금
+- 업무 : React Native 앱 개발, 기개발된 라이브러리 및 API를 사용하여 Android용 RN Bridge Package 개발
+- 주요 작업기능 : UI / 지갑 생성 및 관리 / P2P거래 / QR코드 활용한 송금
 
 
 <br/><br/>

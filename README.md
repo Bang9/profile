@@ -11,7 +11,7 @@
   - <https://blog.naver.com/gusrn1423>
   - <https://www.github.com/bang9>
   
-- 개발
+- 
   - 언어
     - Javascript(ECMAScript, Typescript)
     - Java

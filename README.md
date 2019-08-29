@@ -11,15 +11,21 @@
   - <https://blog.naver.com/gusrn1423>
   - <https://www.github.com/bang9>
   
-- 기술
+- 개발
   - 언어
-    - Javascript(ECMA Script)
+    - Javascript(ECMAScript, Typescript)
     - Java
     - Swift
     - C
     - Python
-  - 기타
-    - React / React-Native / MobX / Electron / Node.js / Express / OpenCV / WebRTC / Wordpress / Bootstrap / Git ...
+  - 스택
+    - React/React-Native(Hooks), MobX
+    - Electron
+    - Node.js, Express
+    - WebRTC, Socket
+    - OpenCV
+    - Wordpress, Bootstrap
+    - Git(Git-flow)
     
 - Contribution
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
@@ -91,11 +97,11 @@
 - 기술 및 언어 : Swift, C, OpenCV
 - 업무 : 기 개발된 iOS앱에 추가적인 기능 개발 및 추가
 - 주요 작업기능 :
-* 추가 UI 개발(360이미지 좌우 보정, 크롭 / 카메라 1:1,3:4 전환 등... )
-* 기개발된 Background Fill 소스(C)를 iOS앱에 추가(배경 화이트 크로마키 처리, Realtime Camera view 및 Image Edit에 적용)
-* 기존 1:1 크롭툴에 기능 추가(4:3 / 3:4 toggle crop)
-* 360도 촬영 이미지의 좌우보정 알고리즘을 바탕으로 개발된 베이스 코드에, 알고리즘 예외사항 추가 작업 및 사용자가 조작 하여 좌우 보정이 가능하도록 OpenCV를 사용하여 360도 이미지의 물체 형상을 이미지로 만들어내는 코드 추가
-* 인앱결제 추가
+  * 추가 UI 개발(360이미지 좌우 보정, 크롭 / 카메라 1:1,3:4 전환 등... )
+  * 기개발된 Background Fill 소스(C)를 iOS앱에 추가(배경 화이트 크로마키 처리, Realtime Camera view 및 Image Edit에 적용)
+  * 기존 1:1 크롭툴에 기능 추가(4:3 / 3:4 toggle crop)
+  * 360도 촬영 이미지의 좌우보정 알고리즘을 바탕으로 개발된 베이스 코드에, 알고리즘 예외사항 추가 작업 및 사용자가 조작 하여 좌우 보정이 가능하도록 OpenCV를 사용하여 360도 이미지의 물체 형상을 이미지로 만들어내는 코드 추가
+  * 인앱결제 추가
 
 #### Wallet(2019.03~2019.04) : (프로토타입) Secure SD 카드를 사용한 하드월렛
 - 기술 및 언어 : Java, Javascript, React Native(Android only)

@@ -32,8 +32,8 @@
   - [Tip] [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
   - [PR] [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap/pulls/Bang9)
   - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pulls/Bang9)
-  - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pull/102)
-  - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/3493)
+  - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls/Bang9)
+  - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls/Bang9)
 
 
 <br/><br/><br/>

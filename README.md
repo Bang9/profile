@@ -34,6 +34,7 @@
   - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pulls/Bang9)
   - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls/Bang9)
   - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls/Bang9)
+  - [PR] [jdmunro/react-native-spotlight-search](https://github.com/jdmunro/react-native-spotlight-search/pulls?q=is%3Apr+author%3ABang9)
 
 
 <br/><br/><br/>

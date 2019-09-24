@@ -26,6 +26,7 @@
     - OpenCV
     - Wordpress, Bootstrap
     - Git(Git-flow)
+    - Fastlane(with React-Native)
     
 - Contribution
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)

@@ -36,6 +36,9 @@
   - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls/Bang9)
   - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls/Bang9)
   - [PR] [jdmunro/react-native-spotlight-search](https://github.com/jdmunro/react-native-spotlight-search/pulls?q=is%3Apr+author%3ABang9)
+  
+- Maintain
+  - [bang9/react-native-wrapped-text](https://github.com/bang9/react-native-wrapped-text)
 
 
 <br/><br/><br/>

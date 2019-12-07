@@ -19,15 +19,28 @@
     - C
     - Python
   - 스택
-    - Git(Git-flow)
-    - React/React-Native(Hooks), MobX
-    - Fastlane(with React-Native)
-    - Electron
-    - Node.js, Express
-    - Sequelize
-    - WebRTC, Socket
-    - OpenCV
-    - Wordpress, Bootstrap
+    - Base
+      - Git(Git-flow), Github Actions
+      - NPM
+      - Carthage
+      - CocoaPods
+      
+      - React + MobX
+      - React-Native + MobX
+      - Fastlane(with React-Native)
+      - WebRTC
+      - Node.js
+      - Express
+      - Socket
+      - PM2
+      - Sequelize
+      - Electron
+      
+      - OpenCV
+      - iOS Native(with Swift)
+      
+      - Wordpress
+      - Bootstrap
     
 - Contribution
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)

@@ -18,28 +18,38 @@
     - Swift
     - C
     - Python
+    - PHP
   - 스택
-    - Git(Git-flow), Github Actions
+    - Linux(Ubuntu)
+    - Git(Git-flow)
+    - - -
     - NPM
     - Carthage
     - CocoaPods
-
-    - React + MobX
+    - - -
+    - WebRTC (Web/Android/iOS - 1:N / N:M communication)
+    - OpenCV (with Swift App)
+    - - -
+    - PM2
+    - Fastlane (with React-Native)
+    - Github Actions (with Express App + PM2)
+    - - -
     - React-Native + MobX
-    - Fastlane(with React-Native)
-    - WebRTC
+    - React + MobX
+    - iOS Native (Swift App)
+    - Electron
+    - Xamarin (Forms, Native, GTK, but toy level)
+    - - -
     - Node.js
     - Express
-    - Socket
-    - PM2
-    - Sequelize
-    - Electron
-
-    - OpenCV
-    - iOS Native(with Swift)
-
-    - Wordpress
-    - Bootstrap
+    - Socket.io(JS/Swift/Android)
+    - Sequelize 
+    - - -
+    - Wordpress 
+    - Bootstrap 
+    - - -
+    - BitcoinJ, Web3J (toy level)
+    - WavesJ (for using DEX)
     
 - Contribution
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
@@ -58,6 +68,7 @@
 
 
 ## 활동 및 수상
+- 강원대학교 2017 IT대학 졸업 및 전공 작품 경진대회 장려상 수상
 - 대학생 창업팀 FLEEO(2016.07~2017.10)의 개발자로 활동
   - 강원대학교 창업선도대학 사업 선정
   - 강원창조경제혁신센터 글로벌벤처창업공모전 혁신상 수상 (2016.08)

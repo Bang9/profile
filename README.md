@@ -13,7 +13,7 @@
   
 - 기술
   - 언어
-    - Javascript(ECMAScript, Typescript)
+    - Javascript(Vanilla, ECMAScript, Typescript)
     - Java
     - Swift
     - C
@@ -36,7 +36,7 @@
     - - -
     - React-Native + MobX
     - React + MobX
-    - iOS Native (Swift App)
+    - iOS Native (Swift+Storyboard, SwiftUI)
     - Electron
     - Xamarin (Forms, Native, GTK, but toy level)
     - - -
@@ -52,13 +52,13 @@
     - WavesJ (for using DEX)
     
 - Contribution
+  - [PR] [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap/pulls?utf8=%E2%9C%93&q=+is%3Apr+author%3ABang9+)
+  - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-login/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
+  - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
+  - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
+  - [PR] [jdmunro/react-native-spotlight-search](https://github.com/jdmunro/react-native-spotlight-search/pulls?q=is%3Apr+author%3ABang9)
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
   - [Tip] [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
-  - [PR] [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap/pulls/Bang9)
-  - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-logins/pulls/Bang9)
-  - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls/Bang9)
-  - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls/Bang9)
-  - [PR] [jdmunro/react-native-spotlight-search](https://github.com/jdmunro/react-native-spotlight-search/pulls?q=is%3Apr+author%3ABang9)
   
 - Maintain
   - [bang9/react-native-wrapped-text](https://github.com/bang9/react-native-wrapped-text)
@@ -88,7 +88,12 @@
 - 사운드짐
   - 2019.07 ~ (현재)
   - 서비스 개발
-  
+    - 사운드짐 앱 개발 (React Native)
+    - 사운드짐 어드민 개발 (React)
+    - 사운드짐 인앱 정기결제 관리 서버 개발 (PM2+Express+MYSQL+Typescript)
+    - 사운드짐 애플워치 개발 (SwiftUI)
+    - 스토어 리뷰 Slack Notifier 개발 (Cloud Functions+Typescript)
+
   
 <br/><br/><br/>
 

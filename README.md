@@ -52,6 +52,7 @@
     - WavesJ (for using DEX)
     
 - Contribution
+  - [PR] [amplitude/Amplitude-JavaScript](https://github.com/amplitude/Amplitude-JavaScript/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A%40me+)
   - [PR] [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap/pulls?utf8=%E2%9C%93&q=+is%3Apr+author%3ABang9+)
   - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-login/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
   - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)

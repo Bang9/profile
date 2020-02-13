@@ -1,7 +1,7 @@
 ## 강현구 (1992.12.02)
 - 강원대학교
   - 컴퓨터 정보통신 전공 수료(2012.03 ~ 2018.07)
-  - 학점 3.2/4.5
+  - 전공학점 3.2/4.5
   
 - 병역
   - 5사단 수색대대 병장 만기제대(2012.11.20 ~ 2014.08.19)
@@ -52,6 +52,7 @@
     - WavesJ (for using DEX)
     
 - Contribution
+  - [PR] [AppsFlyerSDK/react-native-appsflyer](https://github.com/AppsFlyerSDK/react-native-appsflyer/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A%40me+)
   - [PR] [amplitude/Amplitude-JavaScript](https://github.com/amplitude/Amplitude-JavaScript/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A%40me+)
   - [PR] [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap/pulls?utf8=%E2%9C%93&q=+is%3Apr+author%3ABang9+)
   - [PR] [react-native-seoul/react-native-kakao-logins](https://github.com/react-native-seoul/react-native-kakao-login/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)

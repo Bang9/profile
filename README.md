@@ -27,7 +27,7 @@
     - Carthage
     - CocoaPods
     - - -
-    - WebRTC (Web/Android/iOS - 1:N / N:M communication)
+    - WebRTC (Web,ReactNative[js]/Android[java]/iOS[swift]) - 1:N / N:M communication)
     - OpenCV (with Swift App)
     - FFMpeg (cli, electron)
     - - -

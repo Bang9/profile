@@ -26,7 +26,7 @@
     - NPM
     - Carthage
     - CocoaPods
-    - - -
+    ---
     - WebRTC (Web,ReactNative[js]/Android[java]/iOS[swift]) - 1:N / N:M communication)
     - OpenCV (with Swift App)
     - FFMpeg (cli, electron)

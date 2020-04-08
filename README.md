@@ -67,6 +67,7 @@
     - BitcoinJ, Web3J (toy level)
     - WavesJ (for using DEX)
     
+    
 - Contribution
   - [PR] [AppsFlyerSDK/react-native-appsflyer](https://github.com/AppsFlyerSDK/react-native-appsflyer/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A%40me+)
   - [PR] [amplitude/Amplitude-JavaScript](https://github.com/amplitude/Amplitude-JavaScript/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A%40me+)
@@ -110,6 +111,7 @@
     - 사운드짐 어드민 개발 (React)
     - 사운드짐 인앱 정기결제 관리 서버 개발 (PM2+Express+MYSQL+Typescript)
     - 사운드짐 애플워치 개발 (SwiftUI) + 애플워치 컴플리케이션 개발
+    - 사운드짐 웹 정기결제 서비스 개발(설계, API 구성, Serverless로 별도 구성)
     - 스토어 리뷰 Slack Notifier 개발 (Cloud Functions+Typescript)
 
   

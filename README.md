@@ -26,11 +26,11 @@
     - NPM
     - Carthage
     - CocoaPods
-    ---
+    <hr/>
     - WebRTC (Web,ReactNative[js]/Android[java]/iOS[swift]) - 1:N / N:M communication)
     - OpenCV (with Swift App)
     - FFMpeg (cli, electron)
-    - - -
+    <hr/>
     - PM2
     - Fastlane (with React-Native)
     - Github Actions (with Express App + PM2)
@@ -40,15 +40,15 @@
     - iOS Native (Swift+Storyboard, SwiftUI)
     - Electron
     - Xamarin (Forms, Native, GTK, but toy level)
-    - - -
+    <hr/>
     - Node.js
     - Express
     - Socket.io(JS/Swift/Android)
     - Sequelize 
-    - - -
+    <hr/>
     - Wordpress 
     - Bootstrap 
-    - - -
+    <hr/>
     - BitcoinJ, Web3J (toy level)
     - WavesJ (for using DEX)
     

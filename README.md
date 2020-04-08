@@ -22,7 +22,7 @@
   - 스택
     - Linux(Ubuntu)
     - Git(Git-flow)
-    - - -
+    <hr/>
     - NPM
     - Carthage
     - CocoaPods
@@ -34,7 +34,7 @@
     - PM2
     - Fastlane (with React-Native)
     - Github Actions (with Express App + PM2)
-    - - -
+    <hr/>
     - React-Native + MobX
     - React + MobX
     - iOS Native (Swift+Storyboard, SwiftUI)

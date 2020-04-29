@@ -76,6 +76,7 @@
   - [PR] [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
   - [PR] [aksonov/react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
   - [PR] [jdmunro/react-native-spotlight-search](https://github.com/jdmunro/react-native-spotlight-search/pulls?q=is%3Apr+author%3ABang9)
+  - [PR] [react-native-kit/react-native-track-player](https://github.com/react-native-kit/react-native-track-player/pulls?q=is%3Apr+author%3A%40me+)
   - [Tip] [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob/issues/182)
   - [Tip] [jeanregisser/react-native-slider](https://github.com/jeanregisser/react-native-slider/issues/90)
   

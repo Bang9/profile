@@ -111,9 +111,10 @@
     - 사운드짐 앱 개발 (React Native)
     - 사운드짐 어드민 개발 (React)
     - 사운드짐 인앱 정기결제 관리 서버 개발 (PM2+Express+MYSQL+Typescript)
-    - 사운드짐 애플워치 개발 (SwiftUI) + 애플워치 컴플리케이션 개발
     - 사운드짐 웹 정기결제 서비스 개발(설계, API 구성, Serverless로 별도 구성)
     - 스토어 리뷰 Slack Notifier 개발 (Cloud Functions+Typescript)
+    - 사운드짐 애플워치 개발(SwiftUI) + 애플워치 컴플리케이션 개발
+      [![img](images/watch-1.png)](https://www.apple.com/kr/apple-watch-series-5/workout/)
 
   
 <br/><br/><br/>

@@ -82,6 +82,7 @@
   
 - Maintain
   - [bang9/react-native-wrapped-text](https://github.com/bang9/react-native-wrapped-text)
+  - [soundgym/react-native-kakao-ad](https://github.com/soundgym/react-native-kakao-ad)
 
 
 <br/><br/><br/>

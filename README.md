@@ -126,7 +126,8 @@
 ### 졸업 이전
 ----
 #### Catcher(2017.10 ~) : 인증문자 수신 도움 어플리케이션
-- 현재 구글 개인정보 정책 변경으로 SMS Receive 권한때문에 앱 삭제됨 (오픈소스로 공개 예정)
+- <https://github.com/bang9/catcher>
+- 현재 구글 개인정보 정책 변경으로 SMS Receive 권한때문에 앱 삭제됨
 - 기술 및 언어 : Javascript, React, React Native(Android only), Firebase
 - 업무 : React 웹 개발, React Native 앱 개발
 - 주요 작업기능 : UI / 인증문자 수신시 Android Native단에서 Top View 로 팝업 / 웹앱에 인증문자 Push notification 전송

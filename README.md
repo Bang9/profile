@@ -69,6 +69,7 @@
     
     
 - Contribution
+  - [PR] [awslabs/video-on-demand-on-aws](https://github.com/awslabs/video-on-demand-on-aws/pull/99)
   - [PR] [ptomasroos/react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view/pulls?q=is%3Apr+author%3A%40me+)
   - [PR] [AppsFlyerSDK/react-native-appsflyer](https://github.com/AppsFlyerSDK/react-native-appsflyer/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)
   - [PR] [amplitude/Amplitude-JavaScript](https://github.com/amplitude/Amplitude-JavaScript/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ABang9+)

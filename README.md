@@ -117,8 +117,15 @@
     - 사운드짐 인앱 정기결제 관리 서버 개발 (PM2+Express+MYSQL+Typescript)
     - 사운드짐 웹 정기결제 서비스 개발(설계, API 구성, Serverless로 별도 구성)
     - 스토어 리뷰 Slack Notifier 개발 (Cloud Functions+Typescript)
-    - 사운드짐 애플워치 개발(SwiftUI) + 애플워치 컴플리케이션 개발
-      [![img](images/watch-1.png)](https://www.apple.com/kr/apple-watch-series-5/workout/)
+    - 사운드짐 애플워치 개발(SwiftUI) + 애플워치 컴플리케이션 개발<br/>
+      <img src="images/watch-1.png" width="400" height="auto">
+
+    - 서비스 전반에 typescript 도입하여, 서비스 안정성 개선<br/>
+      <img src="images/crash-report.png" width="400" height="auto">
+      
+    - react-native-track-player 안드로이드 모듈 내 서비스가 ANR 을 지속적으로 발생시키는 문제 해결, ANR 발생률 99.5% 감소(최고 대비 최저)<br/>
+      <img src="images/crash-report.png" width="400" height="auto">
+      
 
   
 <br/><br/><br/>

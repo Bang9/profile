@@ -124,7 +124,7 @@
       <img src="images/crash-report.png" width="400" height="auto">
       
     - react-native-track-player 안드로이드 모듈 내 서비스가 ANR 을 지속적으로 발생시키는 문제 해결, ANR 발생률 99.5% 감소(최고 대비 최저)<br/>
-      <img src="images/crash-report.png" width="400" height="auto">
+      <img src="images/anr-report.png" width="400" height="auto">
       
 
   

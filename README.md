@@ -120,10 +120,10 @@
     - 사운드짐 애플워치 개발(SwiftUI) + 애플워치 컴플리케이션 개발<br/>
       <img src="images/watch-1.png" width="400" height="auto">
 
-    - 서비스 전반에 typescript 도입하여, 서비스 안정성 개선<br/>
+    - 2019.07 이후, 서비스 전반에 typescript 도입하여, 서비스 안정성 개선<br/>
       <img src="images/crash-report.png" width="100%" height="auto">
       
-    - react-native-track-player 안드로이드 모듈 내 서비스가 ANR 을 지속적으로 발생시키는 문제 해결, ANR 발생률 99.5% 감소(최고 대비 최저)<br/>
+    - 2020.10 이후, react-native-track-player 안드로이드 모듈 내 서비스가 ANR 을 지속적으로 발생시키는 문제 해결하여 ANR 발생률 99.5% 감소(최고 대비 최저)<br/>
       <img src="images/anr-report.png" width="100%" height="auto">
       
 

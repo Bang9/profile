@@ -1,1 +1,1 @@
-visit [here](bang9.github.io/)
+visit [here](https://bang9.github.io/)
